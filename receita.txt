@@ -1,0 +1,15 @@
+Ingredientes: 
+açucar
+ovo
+trigo
+manteiga
+cacau show
+
+preparo:
+panela
+fogão
+geladeira
+armario
+
+rendimento: 
+8 fatias
